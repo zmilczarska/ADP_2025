@@ -18,7 +18,8 @@ Update the table (today you need to fill at least the first two columns)
 | Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
 | Świątkowska Julia | [julx666](https://github.com/julx666) | SM | | Dziewiatowski Mikolaj, Paluch Agata, Kowalska Justyna |
 | Kowalska Justyna | [kovi7](https://github.com/kovi7) | SM | | Dziewiatowski Mikolaj, Paluch Agata, Swiatkowska Julia |
-| Makowski Ignacy | [makowskiignacy](https://github.com/makowskiignacy) | ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska|
+| Makowski Ignacy | [makowskiignacy](https://github.com/makowskiignacy) | ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska, Ryszard Kobiera |
+| Milczarska Zuzanna | [zmilczarska](https://github.com/zmilczarska) |  ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska, Ryszard Kobiera |
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
 | Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | | | Barbara Pawlowska, Nikola Wiejak |
 | Szymik Anna | [aszymik](https://github.com/aszymik) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
